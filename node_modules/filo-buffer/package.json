@@ -1,0 +1,17 @@
+{
+  "name": "filo-buffer",
+  "version": "0.0.1",
+  "description": "Filo fixed size buffer that can be used as a circular buffer",
+  "main": "lib/FiloBuffer.js",
+  "author": {
+    "name": "Olivier Penhoat",
+    "email": "openhoat@gmail.com"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "0.4.1",
+    "grunt-contrib-clean": "0.4.1",
+    "grunt-contrib-jasmine-node": "0.0.3"
+  }
+}
